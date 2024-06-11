@@ -52,8 +52,11 @@ The supplementary material of our paper is located at "figures/supp.pdf"
 ```yang
 @inproceedings{yang2024diversity,
   title={Diversity-Authenticity Co-constrained Stylization for Federated Domain Generalization in Person Re-identification},
-  author={Yang Fengxiang and Zhong Zhun and Luo Zhiming and Yifan He and Li Shaozi and Nicu Sebe},
-  booktitle={AAAI},
+  author={Yang, Fengxiang and Zhong, Zhun and Luo, Zhiming and He, Yifan and Li, Shaozi and Sebe, Nicu},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={38},
+  number={6},
+  pages={6477--6485},
   year={2024}
 }
 ```
